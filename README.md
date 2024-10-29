@@ -1,1 +1,13 @@
 # dno096-fotos-E3
+![burger-1](https://github.com/user-attachments/assets/77aed369-8d55-4620-8142-473508f2c2a8)
+![chocolate-1](https://github.com/user-attachments/assets/1dbff5fb-c2a4-47b9-9260-1dcbca095279)
+![cupcake-1](https://github.com/user-attachments/assets/e7eeb0de-ac63-483a-811e-9c9a7b7cf9bc)
+![frutilla-1](https://github.com/user-attachments/assets/a313d2fe-f351-4035-a551-948dd0d0d88e)
+![macha-1](https://github.com/user-attachments/assets/031e0798-aa81-4851-b8de-af2e8bfd835d)
+![mint-chocolate-1](https://github.com/user-attachments/assets/f99d9b8c-cafe-4e3e-9a57-8abeca848aee)
+![onigiri-1](https://github.com/user-attachments/assets/e1207de9-f74b-4ae0-bfa3-6002706e9b37)
+![otono-1](https://github.com/user-attachments/assets/06de8f41-3975-49a7-9fd1-efc4b462a62b)
+![panes-1](https://github.com/user-attachments/assets/c3e84baa-e310-42d3-964d-448e67b025b8)
+![sakura-1](https://github.com/user-attachments/assets/f1f5091a-88a8-44f2-8fd7-f208b488e9a0)
+![sandwich-1](https://github.com/user-attachments/assets/a136003d-e2ee-40e0-9a3f-99b86d441718)
+![san-valentin-1](https://github.com/user-attachments/assets/2e0d97ec-9648-4143-b6ab-055a4da3b91c)
