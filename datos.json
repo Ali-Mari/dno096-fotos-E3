@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Chocolate Mint",
+        "descripcion": "Ilustraciones de diferentes dulces de chocolates con menta. ¡Me encantan las chispas de chocolate con menta! Es la fiesta de Choco Min.",
+        "fecha": "2024",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/1f6ac468-a8d2-44f6-a967-83c1235efde8",
+        "fotos": ["mint-chocolate-1.png","mint-chocolate-2.png","mint-chocolate-3.png","mint-chocolate-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Cupcakes",
+        "descripcion": "Ilustraciones de muchos cupcakes. ¡Amarillo y frambueza con crema, uno dibujado hace cinco años...!¡El tiempo vuela!",
+        "fecha": "2024",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/69e03e62-3b8c-4f00-a210-eaa0b97b8cd3",
+        "fotos": ["cupcake-1.png","cupcake-2.png","cupcake-3.png","cupcake-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Sweet Autumn",
+        "descripcion": "Ilustraciones de diferentes comidas en otoño. ¡El otoño es mi estación favorita! ¡En Japón, patatas dulces, castañas, calabazas está en temporada! Y los postres de temporada son tan deliciosos!",
+        "fecha": "2024",
+        "signo": "temporada",
+        "foto": "https://github.com/user-attachments/assets/28a4b00a-2acf-40b1-96f7-83b0c89e30d1",
+        "fotos": ["otono-1.png","otono-2.png","otono-3.png","otono-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Burger",
+        "descripcion": "Ilustraciones de hamburguesa. Sé que las hamburguesas no son muy saludables, pero a veces tengo muchas ganas.",
+        "fecha": "2024",
+        "signo": "salado",
+        "foto": "https://github.com/user-attachments/assets/d400fbd6-607f-48b7-a212-598abe34955a",
+        "fotos": ["burger-1.png","burger-2.png","burger-3.png","burger-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Matcha",
+        "descripcion": "Ilustraciones de diferentes comidas hechas de matcha. Hice esta colección para los amantes del matcha.",
+        "fecha": "2024",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/7006af5e-be21-40d2-a85e-ee662248f2eb",
+        "fotos": ["macha-1.png","macha-2.png","macha-3.png","macha-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Sakura Sweets",
+        "descripcion": "Ilustraciones de dulces de Sakura. Aquí en Japón son populares estos dulces.",
+        "fecha": "2024",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/b741b4bb-fb2a-42aa-87e0-cb601d75262a",
+        "fotos": ["sakura-1.png","sakura-2.png","sakura-3.png","sakura-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Chocolate",
+        "descripcion": "Ilustraciones de diferentes dulces hechos de chocolate. Querido chocolate.",
+        "fecha": "2023",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/fc685ed8-8fd3-4597-add7-61a0092048e4",
+        "fotos": ["chocolate-1.png","chocolate-2.png","chocolate-3.png","chocolate-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Strawberry",
+        "descripcion": "Ilustraciones de diferentes pasteles de fresa, ¡para mis queridos amantes de los pasteles de fresa!",
+        "fecha": "2023",
+        "signo": "dulce",
+        "foto": "https://github.com/user-attachments/assets/ffeb12c4-206c-486f-bf70-dba7db57e96f",
+        "fotos": ["frutilla-1.png","frutilla-2.png","frutilla-3.png","frutilla-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Sandwiches",
+        "descripcion": "Ilustraciones de muchos sandwiches y diferentes rellenos, tanto salado como dulce.",
+        "fecha": "2022",
+        "signo": "salado",
+        "foto": "https://github.com/user-attachments/assets/a2f9ae73-aad5-4a1c-b244-b4fe6823e29b",
+        "fotos": ["sandwich-1.png","sandwich-2.png","sandwich-3.png","sandwich-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Valentine´s Day",
+        "descripcion": "Ilustración para el día de San Valentín. Feliz San Valentín. No podía decidir el color de fondo y estaba preocupada. Finalmente decidí subir todo. Además, mire de cerca. Los dulces familiares se esconden.",
+        "fecha": "2021",
+        "signo": "temporada",
+        "foto": "https://github.com/user-attachments/assets/75569bc0-a8fd-4152-99e0-dbde999b251d",
+        "fotos": ["san-valentin-1.png","san-valentin-2.png","san-valentin-3.png","san-valentin-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Onigiri",
+        "descripcion": "Ilustraciones de diferentes onigiris. ¿Cuál es tu favorito?",
+        "fecha": "2021",
+        "signo": "salado",
+        "foto": "https://github.com/user-attachments/assets/2a0d829e-a932-4d30-afbd-569b184a38ef",
+        "fotos": ["onigiri-1.png","onigiri-2.png","onigiri-3.png","onigiri-4.png"],
+        "github": "https://github.com/ali-mari"
+    },
+    {
+        "nombre": "Bread Toast",
+        "descripcion": "Una colección de ilustraciones de diferentes tipos de panes. ¡Un gran pan y café es la mejor manera de empezar el día!",
+        "fecha": "2021",
+        "signo": "salado",
+        "foto": "https://github.com/user-attachments/assets/28bf3819-17b9-41ca-8390-395293fed81f",
+        "fotos": ["panes-1.png","panes-2.png","panes-3.png","panes-4.png"],
+        "github": "https://github.com/ali-mari"
+    }
+]
+
